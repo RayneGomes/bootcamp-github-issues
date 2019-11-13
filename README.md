@@ -5,7 +5,7 @@
 <h1 align="center">
   GitHub Issues Repositórios
 </h1>
-Site criado durante o BootCamp da Rocketseat utilizando React 16.10 para teste de consumo da API pública de Issues do GitHub.
+Site criado durante o BootCamp da Rocketseat utilizando React 16.10 para teste de consumo da API pública de Issues do GitHub e armazenando informações em localStorage.
 
 ## Como rodar o projeto
 
